@@ -1,1 +1,2 @@
 Makenzie Noggle
+nogglema@oregonstate.edu
